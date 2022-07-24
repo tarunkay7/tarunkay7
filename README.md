@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various projects related to Data Science and AI
 - 📫 How to reach me  https://www.linkedin.com/in/tarun-kay7/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarun kesavan)](https://github.com/anuraghazra/github-readme-stats)
      
 
 <!---
