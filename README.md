@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkay7" alt="tarunkay7" /></a> </p>
 
-- 🔭 I’m currently working on **Qrify**
+- 🔭 I’m currently working on **Cloud-based Solutions**
 
-- 🌱 I’m currently learning **React, JEEE**
+- 🌱 I’m currently learning **Pytorch, AI, System Design**
 
 - 💬 Ask me about **Python, Tensorflow, Javascript**
 
