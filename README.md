@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Kesavan Menon</h1>
-<h3 align="center">A passionate Full Stack Developer, AI and Data Science Enthusiast</h3>
+<h3 align="center">An Aspiring Full Stack Developer, AI and Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkay7&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkay7" /> </p>
 
