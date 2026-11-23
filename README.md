@@ -1,8 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:6366f1,100:06b6d4&text=Hi%2C%20I'm%20Tarun&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20%C2%B7%20AI%20%C2%B7%20Cloud&descAlignY=58&descSize=20" alt="banner" />
+<img width="100%" src="assets/hero.svg" alt="Tarun: data pipelines and AI that make messy data usable" />
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=I+turn+messy+data+into+decisions.;I+build+voice+%E2%86%92+structured+data+with+AI.;I+ship+pipelines+that+scan%2C+sign+%26+deploy+themselves.)](https://github.com/tarunkay7)
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
