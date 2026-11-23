@@ -41,6 +41,8 @@ flowchart LR
 
 ## 📬 Let's talk
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--kay7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kay7/)
+[![Email](https://img.shields.io/badge/Email-tarunmenon383%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunmenon383@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tarunkay7-181717?style=for-the-badge&logo=github)](https://github.com/tarunkay7)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:6366f1,100:0f172a&section=footer" alt="" />
