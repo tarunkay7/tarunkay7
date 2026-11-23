@@ -9,8 +9,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -32,7 +30,7 @@ A CI/CD pipeline on AWS where every push is **secret-scanned → built → vulne
 
 ### 🎙️ Ledgr — voice-driven expense tracking
 Say what you spent; AI extracts the transactions, you review them, and only then do they hit your ledger. Web dashboard + native Android client, per-user data isolation, OTP sign-up.
-`JavaScript` · `Flutter/Dart` · `Speech → structured data` · *(code available on request)*
+`Speech → structured data` · *(code available on request)*
 
 ```mermaid
 flowchart LR
